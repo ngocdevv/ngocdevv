@@ -5,7 +5,7 @@
 I'm a passionate Mobile Developer specializing in React Native, based in Ho Chi Minh City, Vietnam. I love creating apps that make a difference and am always eager to embrace new challenges in the mobile development arena.
 
 🌐 **Connect with me**:
-- 📫 Reach me at [lehau.dev@gmail.com](mailto:ngocdevv@gmail.com)
+- 📫 Reach me at [ngocdevv@gmail.com](mailto:ngocdevv@gmail.com)
 - 🤝 Connect on [Facebook](https://www.facebook.com/S3079) and [LinkedIn](https://www.linkedin.com/in/ngoclee/)
 
 ## 🛠️ Skills & Expertise
@@ -45,7 +45,7 @@ I'm a passionate Mobile Developer specializing in React Native, based in Ho Chi 
 - Problem-Solving and Innovation
 
 ## 📈 Github Stats
-<a href="https://github.com/howljs">
+<a href="https://github.com/s3079">
   <img align="center" style="margin:0.4rem" src="https://github-readme-stats.vercel.app/api?username=s3079&show_icons=true&theme=dracula" alt="Ngocdevv GitHub Stats" />
 </a>
 
