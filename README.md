@@ -25,6 +25,7 @@ I'm a passionate Mobile Developer specializing in React Native, based in Ho Chi 
 ![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=011e36&color=31a8ff)
 ![](https://img.shields.io/badge/Illustrator-informational?style=flat&logo=adobeillustrator&logoColor=300000&color=ff9b00)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=2f3139)
+![](https://img.shields.io/badge/Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=2f3139)
 
 ## 💡 Highlights
 - Experienced in Redux/Saga, Rest API, and Firebase products.
