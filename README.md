@@ -16,7 +16,6 @@ I'm a passionate Mobile Developer specializing in React Native, based in Ho Chi 
 
 ### Frameworks
 ![](https://img.shields.io/badge/React_Native-informational?style=flat&logo=react&logoColor=25d9fd&color=262626)
-![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=45c7fb&color=00559f)
 
 ### Tools
 ![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=0076c6)
