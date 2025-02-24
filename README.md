@@ -1,8 +1,6 @@
 ### Hi 👋, I'm Ngoc Le
 
 I’m an enthusiastic React Native Developer based in Ho Chi Minh City, Vietnam, with a strong focus on building impactful mobile applications using React Native. I’m deeply passionate about app development and thrive on tackling fresh challenges in the ever-evolving world of mobile technology.
-
-🌐 **Connect with me**:
 - ✌️ Reach me at [ngocdevv@gmail.com](mailto:ngocdevv@gmail.com)
 - 💌 Connect on [Facebook](https://www.facebook.com/ngocdevv) and [LinkedIn](https://www.linkedin.com/in/ngocdevv/)
 
