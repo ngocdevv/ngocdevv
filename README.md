@@ -1,10 +1,10 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ngoc (Ngocdevv)
 
-I'm a passionate Mobile Developer specializing in React Native, based in Ho Chi Minh City, Vietnam. I love creating apps that make a difference and am always eager to embrace new challenges in the mobile development arena.
+I'm a passionate React Native Developer specializing in React Native, based in Ho Chi Minh City, Vietnam. I love creating apps that make a difference and am always eager to embrace new challenges in the mobile development arena.
 
 🌐 **Connect with me**:
 - ✌️ Reach me at [ngocdevv@gmail.com](mailto:ngocdevv@gmail.com)
-- 💌 Connect on [Facebook](https://www.facebook.com/S3079) and [LinkedIn](https://www.linkedin.com/in/ngoclee/)
+- 💌 Connect on [Facebook](https://www.facebook.com/S3079) and [LinkedIn](https://www.linkedin.com/in/ngocdevv/)
 
 ## 🛠️ Skills & Expertise
 ### Programming Languages
@@ -28,15 +28,15 @@ I'm a passionate Mobile Developer specializing in React Native, based in Ho Chi 
 ![](https://img.shields.io/badge/Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=2f3139)
 
 ## 💡 Highlights
-- Experienced in Redux/Saga, Rest API, and Firebase products.
-- Proficient in Continuous Deployment using Fastlane, Bitrise, and AppCenter.
-- Expertise in setting up multiple environments (development, staging, production).
+- With extensive in Redux/Saga, Rest API, and various Firebase products.
+- I have a strong proficiency in implementing Continuous Deployment using tools like Fastlane, AppCenter, and Xcode Cloud.
+- Additionally, I excel at configuring multiple environments, including development, staging, and production, to ensure smooth workflows.
 
 ## 🌟 Professional Competencies
-- Agile methodology
-- Teamwork and Collaboration
-- Continuous Learning and Adaptability
-- Problem-Solving and Innovation
+- My professional strengths include a deep understanding of Agile methodology, which allows me to thrive in dynamic, fast-paced settings. 
+- I value teamwork and collaboration, consistently working well with others to achieve shared goals.
+- I am committed to continuous learning and adaptability, always staying open to new technologies and approaches.
+- Above all, I am a problem-solver with a passion for innovation, driving creative solutions to complex challenges.
 
 ## 📈 Github Stats
 <a href="https://github.com/s3079">
