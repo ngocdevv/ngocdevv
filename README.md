@@ -36,9 +36,10 @@ I’m an enthusiastic React Native Developer based in Ho Chi Minh City, Vietnam,
 - I am committed to continuous learning and adaptability, always staying open to new technologies and approaches.
 - Above all, I am a problem-solver with a passion for innovation, driving creative solutions to complex challenges.
 
-## 📈 Github Stats
+<!---## 📈 Github Stats
 <a href="https://github.com/s3079">
   <img align="center" style="margin:0.4rem" src="https://github-readme-stats.vercel.app/api?username=ngocdevv&show_icons=true&theme=dracula" alt="Ngocdevv GitHub Stats" />
 </a>
+-->
 
 <!--END_SECTION:waka-->
