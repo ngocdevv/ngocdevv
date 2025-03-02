@@ -38,7 +38,7 @@ I’m an enthusiastic React Native Developer based in Ho Chi Minh City, Vietnam,
 
 ## 📈 Github Stats
 <a href="https://github.com/s3079">
-  <img align="center" style="margin:0.4rem" src="https://github-readme-stats.vercel.app/api?username=ngocdevv&show_icons=true" alt="Ngocdevv GitHub Stats" />
+  <img align="center" style="margin:0.4rem" src="https://github-readme-stats.vercel.app/api?username=ngocdevv&show_icons=true&theme=dark" alt="Ngocdevv GitHub Stats" />
 </a>
 
 
