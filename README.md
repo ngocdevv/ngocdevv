@@ -17,7 +17,6 @@ I’m an enthusiastic React Native Developer based in Ho Chi Minh City, Vietnam,
 ![](https://img.shields.io/badge/Android_Studio-informational?style=flat&logo=androidstudio&logoColor=3ddc84&color=132e3d)
 ![](https://img.shields.io/badge/Xcode-informational?style=flat&logo=xcode&logoColor=white&color=176ee3)
 ![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=white&color=171515)
-![](https://img.shields.io/badge/Bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=156de7)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=f0502f)
 ![](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=white&color=156de7)
 ![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=011e36&color=31a8ff)
