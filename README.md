@@ -25,7 +25,7 @@ I’m an enthusiastic React Native Developer based in Ho Chi Minh City, Vietnam,
 ![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=white&color=171515)
 
 ## 💡 Highlights
-- With extensive in Redux/Saga/Context/Redux Toolkit/Mobx State Tree, Rest API, and various Firebase products.
+- With extensive in Redux/Saga/Context/Redux Toolkit/Mobx State Tree, Rest API, Supabase and various Firebase products.
 - I have a strong proficiency in implementing Continuous Deployment using tools like Fastlane, AppCenter, and Xcode Cloud.
 - Additionally, I excel at configuring multiple environments, including development, staging, and production, to ensure smooth workflows.
 
