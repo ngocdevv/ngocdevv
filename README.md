@@ -6,11 +6,12 @@ I’m an enthusiastic React Native Developer based in Ho Chi Minh City, Vietnam,
 
 ## 🛠️ Skills & Expertise
 ### Programming Languages
-![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=000000&color=ffdf00)
-![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2e79c7)
-
-### Frameworks
-![](https://img.shields.io/badge/React_Native-informational?style=flat&logo=react&logoColor=25d9fd&color=262626)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Claude](https://camo.githubusercontent.com/1d5fbf71150d809ed14251f1f14847ecbbe4ad6d8df4ce072df87bbdc06d81d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d436c617564652d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d616e7468726f706963266c6f676f436f6c6f723d7768697465)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![WebGPU](https://img.shields.io/badge/WebGPU-4285F4?style=flat-square&logo=webgl&logoColor=white)
 
 ### Tools
 ![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=0076c6)
