@@ -39,7 +39,6 @@ I build mobile apps and native modules with **React Native, Expo, TypeScript, Sw
 | **React Native Reanimated** | Prevented React Native's development prop freezing from breaking animated styles in sticky headers. | [#10389](https://github.com/software-mansion/react-native-reanimated/pull/10389) — merged |
 | **React Native Skia** | Fixed Android video-frame lifetime handling to avoid rendering disposed textures. | [#4019](https://github.com/Shopify/react-native-skia/pull/4019) — merged |
 | **HeroUI** | Added accessible labels to Autocomplete search fields across documentation and Storybook examples. | [#6809](https://github.com/heroui-inc/heroui/pull/6809) — merged |
-| **portal-plus** | Contributed bottom-tab navigation, animations, and icon updates. | [#1](https://github.com/monokaijs/portal-plus/pull/1) · [#2](https://github.com/monokaijs/portal-plus/pull/2) · [#4](https://github.com/monokaijs/portal-plus/pull/4) — merged |
 
 ¹ React Native imports PRs through its internal workflow. These PRs appear closed on GitHub, but their changes landed in [022458f](https://github.com/react/react-native/commit/022458fbb64f4303b7872e738134c021c62bc291) and [57f4080](https://github.com/react/react-native/commit/57f408012d5f44ea2d14fe0172609a705973c209).
 
