@@ -1,45 +1,48 @@
-### Hi 👋, I'm Ngoc Le
+# Ngoc Le
 
-I’m an enthusiastic React Native Developer based in Ho Chi Minh City, Vietnam, with a strong focus on building impactful mobile applications using React Native. I’m deeply passionate about app development and thrive on tackling fresh challenges in the ever-evolving world of mobile technology.
-- ✌️ Reach me at [ngocdevv@gmail.com](mailto:ngocdevv@gmail.com)
-- 💌 Connect on [Facebook](https://www.facebook.com/ngocdevv) and [LinkedIn](https://www.linkedin.com/in/ngocdevv/)
+### Mobile Developer · iOS & Android
 
-## 🛠️ Skills & Expertise
-### Programming Languages
+I build mobile apps and native modules with **React Native, Expo, TypeScript, Swift, and Kotlin**. Based in Ho Chi Minh City, Vietnam, I focus on native integrations, gestures, animation, and graphics—and contribute fixes to the libraries behind them.
+
+[Portfolio](https://ngocdevv.com/) · [LinkedIn](https://www.linkedin.com/in/ngocdevv/) · [Email](mailto:ngocdevv@gmail.com)
+
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Claude](https://camo.githubusercontent.com/1d5fbf71150d809ed14251f1f14847ecbbe4ad6d8df4ce072df87bbdc06d81d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d436c617564652d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d616e7468726f706963266c6f676f436f6c6f723d7768697465)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![WebGPU](https://img.shields.io/badge/WebGPU-4285F4?style=flat-square&logo=webgl&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-### Tools
-![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=0076c6)
-![](https://img.shields.io/badge/Android_Studio-informational?style=flat&logo=androidstudio&logoColor=3ddc84&color=132e3d)
-![](https://img.shields.io/badge/Xcode-informational?style=flat&logo=xcode&logoColor=white&color=176ee3)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=f0502f)
-![](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=white&color=156de7)
-![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=011e36&color=31a8ff)
-![](https://img.shields.io/badge/Illustrator-informational?style=flat&logo=adobeillustrator&logoColor=300000&color=ff9b00)
-![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=2f3139)
-![](https://img.shields.io/badge/Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=2f3139)
-![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=white&color=171515)
+## What I work on
 
-## 💡 Highlights
-- With extensive in Redux/Saga/Context/Redux Toolkit/Mobx State Tree, Rest API, Supabase and various Firebase products.
-- I have a strong proficiency in implementing Continuous Deployment using tools like Fastlane, AppCenter, and Xcode Cloud.
-- Additionally, I excel at configuring multiple environments, including development, staging, and production, to ensure smooth workflows.
+- **Native integrations:** Expo modules, iOS CallKit/PushKit, Android Telecom, share intents, and iOS Share Extensions.
+- **Mobile UI:** gestures, spring animations, keyboard-aware components, and Skia rendering with Reanimated and Gesture Handler.
+- **App architecture:** Redux Toolkit, Redux Saga, Context, MobX State Tree, REST APIs, Firebase, and Supabase.
+- **Build & delivery:** Xcode, Android Studio, Fastlane, Xcode Cloud, and development/staging/production configurations.
 
-## 🌟 Professional Competencies
-- My professional strengths include a deep understanding of Agile methodology, which allows me to thrive in dynamic, fast-paced settings. 
-- I value teamwork and collaboration, consistently working well with others to achieve shared goals.
-- I am committed to continuous learning and adaptability, always staying open to new technologies and approaches.
-- Above all, I am a problem-solver with a passion for innovation, driving creative solutions to complex challenges.
+## Selected projects
 
-## 📈 Github Stats
-<a href="https://github.com/ngocdevv">
-  <img align="center" style="margin:0.4rem" src="https://github-readme-stats.vercel.app/api?username=ngocdevv&show_icons=true&theme=dark" alt="Ngocdevv GitHub Stats" />
-</a>
+| Project | What I built | Stack |
+| --- | --- | --- |
+| [bottom-sheet-native](https://github.com/ngocdevv/bottom-sheet-native) | A bottom sheet with native gesture, detent, spring, and keyboard handling. In development; not yet published on npm. | React Native · Expo Modules · Swift · Kotlin |
+| [expo-vicall-call-manager](https://github.com/ngocdevv/expo-vicall-call-manager) | A bridge to system call UI and lifecycle through iOS CallKit/PushKit and Android Telecom. | Expo Modules · TypeScript · Swift · Kotlin |
+| [react-native-share-content](https://github.com/ngocdevv/react-native-share-content) | Incoming text and media sharing through Android intents and an iOS Share Extension, with queued delivery and typed events. | Expo Modules · Swift · Kotlin · Config plugins |
+| [holodex-151](https://github.com/ngocdevv/holodex-151) | A holographic card demo with gesture/sensor-driven motion, Skia graphics, and reduced-motion support. | React Native · Expo · Skia · Reanimated |
 
+## Open-source contributions
 
-<!--END_SECTION:waka-->
+**10 accepted PRs across 6 projects**, including fixes in the React Native ecosystem:
+
+| Project | Contribution | Evidence |
+| --- | --- | --- |
+| **React Native** | Preserved explicit transparent colors during Android prop reconciliation; fixed RTL glyph clipping on Android 15+. | [#58093](https://github.com/react/react-native/pull/58093) · [#58072](https://github.com/react/react-native/pull/58072) — landed upstream¹ |
+| **React Native Gesture Handler** | Kept Swipeable gesture handlers stable when callbacks change; made DrawerLayout use the latest animation speed after a rerender. | [#4466](https://github.com/software-mansion/react-native-gesture-handler/pull/4466) · [#4470](https://github.com/software-mansion/react-native-gesture-handler/pull/4470) — merged |
+| **React Native Reanimated** | Prevented React Native's development prop freezing from breaking animated styles in sticky headers. | [#10389](https://github.com/software-mansion/react-native-reanimated/pull/10389) — merged |
+| **React Native Skia** | Fixed Android video-frame lifetime handling to avoid rendering disposed textures. | [#4019](https://github.com/Shopify/react-native-skia/pull/4019) — merged |
+| **HeroUI** | Added accessible labels to Autocomplete search fields across documentation and Storybook examples. | [#6809](https://github.com/heroui-inc/heroui/pull/6809) — merged |
+| **portal-plus** | Contributed bottom-tab navigation, animations, and icon updates. | [#1](https://github.com/monokaijs/portal-plus/pull/1) · [#2](https://github.com/monokaijs/portal-plus/pull/2) · [#4](https://github.com/monokaijs/portal-plus/pull/4) — merged |
+
+¹ React Native imports PRs through its internal workflow. These PRs appear closed on GitHub, but their changes landed in [022458f](https://github.com/react/react-native/commit/022458fbb64f4303b7872e738134c021c62bc291) and [57f4080](https://github.com/react/react-native/commit/57f408012d5f44ea2d14fe0172609a705973c209).
+
+I also have open PRs for **React Native Screens, VisionCamera, React Native SVG, React Native PDF, and TanStack Query**.
+
+**[View the full contribution list →](https://github.com/ngocdevv/ngocdevv/blob/main/OPEN_SOURCE.md)** — all 18 PRs and 3 authored issues, with source links and status notes. Checked on **October 1, 2026**.
